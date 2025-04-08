@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-&$g8zy&3@)^hcw^i(j2g+!$88^96i0&v1%ok&sgvw4l7e!gci^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'glowing-space-carnival-7j66pwwq5v2w-8000.app.github.dev']
 
 
 # Application definition
